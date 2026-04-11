@@ -16,7 +16,7 @@
 
         BLE {
             bindings = <&lt 4 ESC>;
-            key-positions = <35 36>;
+            key-positions = <25 26>;
         };
     };
 
